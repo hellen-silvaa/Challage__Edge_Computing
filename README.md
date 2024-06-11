@@ -71,9 +71,6 @@ O projeto funciona da seguinte forma:
 3. O sensor PIR detecta o movimento da roda da bicicleta, enviando os dados para o Arduino.
 4. O Arduino processa os dados dos sensores e exibe as informações relevantes no LCD 16x02.
 
-## Protótipo Final
-
-## Funcionamento
 
 https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a35671b-a2d1-4819-a32e-b7ac4dd27e16
 
