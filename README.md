@@ -71,11 +71,12 @@ O projeto funciona da seguinte forma:
 3. O sensor PIR detecta o movimento da roda da bicicleta, enviando os dados para o Arduino.
 4. O Arduino processa os dados dos sensores e exibe as informações relevantes no LCD 16x02.
 
+[Link para acessar o projeto no WOKWI](https://wokwi.com/projects/400391918414007297)
 
 https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a35671b-a2d1-4819-a32e-b7ac4dd27e16
 
 
-[Link para acessar o projeto no WOKWI](https://wokwi.com/projects/400391918414007297)
+
 ![mahindra1](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/d03f1fa5-e29d-4781-83e3-929b0f232761)
 ![mahindra2](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/361774f7-c9f7-475e-9a7f-1d0e42f41611)
 ![mahindra3](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/a9641843-bda7-4fc3-bfe4-2c9770936c79)
@@ -96,7 +97,7 @@ O Projeto Bike-E é uma iniciativa inovadora que busca integrar o mundo do cicli
    - [Eduardo Dallabella: RM 556803]
      
    - [ Heloísa Real: RM 554535]
-   - 
+     
    - [ Hellen Silva: RM 559008]
      
    - [ Lorenzo Acquesta: RM 557397]
