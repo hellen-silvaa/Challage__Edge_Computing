@@ -1,10 +1,5 @@
 # Challage__Edge_Computing
 
-## Vídeo Funcionamento
-
-https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a35671b-a2d1-4819-a32e-b7ac4dd27e16
-
-
 # Projeto Bike-E: Conectando o Ciclismo à Fórmula E
 
 ## Objetivo
@@ -79,6 +74,11 @@ O projeto funciona da seguinte forma:
 4. O Arduino processa os dados dos sensores e exibe as informações relevantes no LCD 16x02.
 
 ## Protótipo Final
+
+## Funcionamento
+
+https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a35671b-a2d1-4819-a32e-b7ac4dd27e16
+
 
 [Link para acessar o projeto no WOKWI](https://wokwi.com/projects/400391918414007297)
 ![mahindra1](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/d03f1fa5-e29d-4781-83e3-929b0f232761)
