@@ -1,4 +1,3 @@
-
 # Projeto Bike-E: Conectando o Ciclismo à Fórmula E
 
 ## Objetivo
@@ -10,7 +9,7 @@ O objetivo principal do Projeto Bike-E é:
 Para alcançar o objetivo proposto, o Projeto Bike-E foca em:
 
 - **Eficiência Energética:** Utilizando componentes cuidadosamente selecionados e algoritmos de controle inteligentes para maximizar a autonomia da bicicleta elétrica. Será implementado futuramente um sistema que a partir da energia mecânica gerada pelas pedaladas será capturada, transformada em energia elétrica e armazenada para carregar celulares e afins.
-- 
+  
 - **Desempenho:** Desenvolvendo técnicas de economia de energia e otimização de desempenho para garantir uma experiência de pedalada suave e eficiente.
 
 ## Funcionalidades Principais
