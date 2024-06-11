@@ -83,9 +83,9 @@ https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a356
 
 ---
 
-# Projeto Bike-E: Conectando o Ciclismo à Fórmula E
+# Conectando o Ciclismo à Fórmula E
 
-O Projeto Bike-E é uma iniciativa inovadora que busca integrar o mundo do ciclismo urbano com a emoção e tecnologia da Fórmula E. Utilizando componentes de IoT (Internet das Coisas) e algoritmos de controle eficientes, o projeto visa captar informações relevantes durante o trajeto de bicicleta, proporcionando uma experiência única e interativa para ciclistas de todas as idades e níveis de conhecimento sobre automobilismo.
+O Projeto AroundCity, tem a Bike-E que é uma iniciativa inovadora que busca integrar o mundo do ciclismo urbano com a emoção e tecnologia da Fórmula E. Utilizando componentes de IoT (Internet das Coisas) e algoritmos de controle eficientes, o projeto visa captar informações relevantes durante o trajeto de bicicleta, proporcionando uma experiência única e interativa para ciclistas de todas as idades e níveis de conhecimento sobre automobilismo.
 
 
 
