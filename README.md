@@ -1,4 +1,3 @@
-# Challage__Edge_Computing
 
 # Projeto Bike-E: Conectando o Ciclismo à Fórmula E
 
