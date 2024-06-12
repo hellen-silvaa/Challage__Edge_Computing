@@ -43,6 +43,7 @@ void setup() {
 void loop() {
   int estadoPIR = digitalRead(pinoPIR);
 
+  
 // Lê o estado do sensor PIR
   if (estadoPIR == HIGH && millis() - ultimoMovimento > 2000) {
     digitalWrite(pinoLED_PIR, HIGH);
