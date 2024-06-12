@@ -76,7 +76,6 @@ O projeto funciona da seguinte forma:
 https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a35671b-a2d1-4819-a32e-b7ac4dd27e16
 
 
-
 ![mahindra1](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/d03f1fa5-e29d-4781-83e3-929b0f232761)
 ![mahindra2](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/361774f7-c9f7-475e-9a7f-1d0e42f41611)
 ![mahindra3](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/a9641843-bda7-4fc3-bfe4-2c9770936c79)
