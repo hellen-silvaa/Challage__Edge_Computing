@@ -51,10 +51,6 @@ O Projeto Bike-E é uma iniciativa que busca integrar o mundo do ciclismo urbano
 - IoT (Internet das Coisas)
 - Software Wokwi
 
-## Explicação do Projeto
-
-O Projeto Bike-E visa criar uma bicicleta inteligente que integra tecnologias de IoT para proporcionar uma experiência única aos usuários. Utilizando sensores e um Arduino Uno como plataforma central, o projeto diferente das bicicletas comuns que tem na rua, ele possui uma captura dados como distância percorrida, calorias gastas e luminosidade ambiente para oferecer funcionalidades como iluminação automática dos faróis e exibição de informações em um display LCD, melhorando a experiência do usuário e também tem um valor acessível para que todos possam desfrutar do lazer.
-
 ## Explicação dos Principais Componentes
 
 - **Arduino Uno:** Plataforma de hardware utilizada como o cérebro do nosso projeto, responsável por controlar e processar os dados dos sensores.
@@ -76,17 +72,9 @@ O projeto funciona da seguinte forma:
 https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a35671b-a2d1-4819-a32e-b7ac4dd27e16
 
 
-![mahindra1](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/d03f1fa5-e29d-4781-83e3-929b0f232761)
-![mahindra2](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/361774f7-c9f7-475e-9a7f-1d0e42f41611)
-![mahindra3](https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/a9641843-bda7-4fc3-bfe4-2c9770936c79)
-
----
-
-# Conectando o Ciclismo à Fórmula E
+# Conectando a Fórmula E com as pessoas
 
 O Projeto AroundCity, tem a Bike-E que é uma iniciativa inovadora que busca integrar o mundo do ciclismo urbano com a emoção e tecnologia da Fórmula E. Utilizando componentes de IoT (Internet das Coisas) e algoritmos de controle eficientes, o projeto visa captar informações relevantes durante o trajeto de bicicleta, proporcionando uma experiência única e interativa para ciclistas de todas as idades e níveis de conhecimento sobre automobilismo.
-
-
 
 
 ## Integrantes do Grupo:
