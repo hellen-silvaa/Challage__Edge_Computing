@@ -71,7 +71,6 @@ O projeto funciona da seguinte forma:
 
 https://github.com/hellen-silvaa/Challage__Edge_Computing/assets/127620071/9a35671b-a2d1-4819-a32e-b7ac4dd27e16
 
-
 # Conectando a Fórmula E com as pessoas
 
 O Projeto AroundCity, tem a Bike-E que é uma iniciativa inovadora que busca integrar o mundo do ciclismo urbano com a emoção e tecnologia da Fórmula E. Utilizando componentes de IoT (Internet das Coisas) e algoritmos de controle eficientes, o projeto visa captar informações relevantes durante o trajeto de bicicleta, proporcionando uma experiência única e interativa para ciclistas de todas as idades e níveis de conhecimento sobre automobilismo.
