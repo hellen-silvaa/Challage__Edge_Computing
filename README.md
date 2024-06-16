@@ -78,9 +78,9 @@ O Projeto AroundCity, tem a Bike-E que é uma iniciativa inovadora que busca int
 
 ## Integrantes do Grupo:
 
-   - [ Alexia Ramalho: RM 558385 ]
-   - [Eduardo Dallabella: RM 556803]
-   - [ Heloísa Real: RM 554535]
-   - [ Hellen Silva: RM 559008]
-   - [ Lorenzo Acquesta: RM 557397]
+   -  Alexia Ramalho: RM 558385 
+   -  Eduardo Dallabella: RM 556803
+   -  Heloísa Real: RM 554535
+   -  Hellen Silva: RM 559008
+   -  Lorenzo Acquesta: RM 557397
 
